@@ -40,7 +40,8 @@
 
 ## 任务三
 
-可视化结果展示链接:
+可视化结果展示链接:https://asciinema.org/a/eynjq428hoKVud3BDib3MO4U1
 
 类图
 
+![](http://www.plantuml.com/plantuml/png/TLF1JiCm3BtxAt84fEqJqDYPIOC15yJ1wyAe5jgIf68JyE-O-cL93kooP-VvvTbE5o6oZ-Ex8sgxQFqhDzPiUY_GV96Hd-jvTt4vmI1vmBsDQyUTH3z4ZUCGp7BSRfsjQaNo-SMm5d_oKDBlnhOvA9l-Oq_m8n4H3sAuZMslbwlOYgDlZogpxiDqB5e3O22j70lxGB6_yPvFfRCaW2PksuwbCUFqlxeZ3SP6i5GdZn9fIDNwb6gpce6x8fKoJ-n6aJzF9p5AvojfjPg-yMUqFwDjFkNkKFM3YHNU85dUikdua3h2keFkCNbzUBCJ2NOJXgJMQ8pDFGvvkS7YPIKrM5YUxiKkUFPecp5Yt4JLsvlFlwzXZF8hg_EaJSncI6Wi51ZASTuMVAWE5fkIebGmLSDSbKaK2B4lc0lRxVw-lby0)

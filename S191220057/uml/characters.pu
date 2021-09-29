@@ -18,7 +18,7 @@ class QuickSorter
     quickSort()
     partition()
 }
-class Line {
+class Matrix{
     Position[] positions
 
     put()
@@ -57,7 +57,7 @@ class Snake {
     getTheSnake()
     Snake()
     setSorter()
-    lineUp()
+    MatrixUp()
     parsePlan()
 
     getMonsterByRank()
@@ -70,13 +70,13 @@ BubbleSorter ..|> Sorter
 QuickSorter ..|> Sorter
 
 Snake -- Sorter
-Snake .. Line
+Snake .. Matrix
 Snake .. Position
 
 Monster ..|> Linable
 Monster -- Position
 
-Line *-- Position
+Matrix *-- Position
 Linable --o Position
 
 @enduml
